@@ -8,7 +8,7 @@ class evennoofdigits{
       int n = sc.nextInt();
         int nums[] = new int[n];
 
-        //  the array elements
+        //  the array elementss
         for (int i = 0; i < n; i++) {
             nums[i] = sc.nextInt();
         }
