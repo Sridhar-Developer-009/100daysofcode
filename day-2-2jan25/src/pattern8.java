@@ -1,7 +1,7 @@
 /*
 8th question from pattern file
 
- */
+*/
 
 
 import  java.util.*;
