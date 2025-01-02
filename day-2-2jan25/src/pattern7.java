@@ -1,5 +1,6 @@
 /*
 7th question from pattern file
+
  */
 
 
