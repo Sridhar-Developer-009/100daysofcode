@@ -1,9 +1,9 @@
 public class ceiling {
     public static void main(String[] args){
         int arr[]={2,3,5,9,14,16,18};
-        int target=15;
+        int target=19;
         int ans=binarysearchh(arr,target);
-        System.out.print(arr[ans]);
+        System.out.print(ans);
 
     }
     static int binarysearchh(int arr[],int target){
