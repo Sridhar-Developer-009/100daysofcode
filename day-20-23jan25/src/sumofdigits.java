@@ -1,8 +1,8 @@
 public class sumofdigits {
     public static void main(String[] args) {
         int n=342;
-        int result=sum1(n);
-        System.out.println(result);
+        sum1(n);
+        System.out.println(s);
     }
     static int sum(int n){
         if(n==0){
@@ -14,9 +14,9 @@ public class sumofdigits {
 
 //newprb
 //to print a reverse num
-
+static int s=0;
     static void sum1(int n){
-         int s=0;
+
     if(n==0){
 
         return ;
